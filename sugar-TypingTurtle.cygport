@@ -1,0 +1,5 @@
+NAME="sugar-TypingTurtle"
+VERSION=30
+RELEASE=1
+SUGAR_TYPE="honey"
+inherit sugar
